@@ -67,11 +67,11 @@ This dataset provides detailed production information:
 - **Production Company Analysis:**
   -Identified the most successful production companies in terms of revenue and ratings.
 
--**Runtime and Rating Relation:**
+- **Runtime and Rating Relation:**
   - Investigated the relationship between movie runtime and ratings.
 
 - **Comparative Analysis of MPAA Ratings:**
-  -Compared box office performance and ratings across different MPAA ratings.
+  - Compared box office performance and ratings across different MPAA ratings.
   
 - **Trends in Movie Releases:**
   - Explored annual trends in the number of movie releases to see if the frequency of releases has increased over time.
