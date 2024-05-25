@@ -4,6 +4,9 @@
 
 The primary goal of this project is to utilize Power BI to transform a collection of movie-related datasets into a comprehensive and engaging narrative. This involves meticulous data cleaning, sophisticated data modeling, and proficient use of DAX for advanced analytics. The final deliverable is an interactive dashboard that vividly displays the findings, providing actionable insights into industry trends, financial performance, and audience preferences in the movie industry.
 
+![Entertainment Analysis Image](https://github.com/sahil-kishor/PowerBI-Unveiling-Insights-in-the-Movie-Industry-Through-Data-Analysis/assets/159517524/b0ee2a56-fa0e-49ea-8761-cd27acb19cf7)
+
+
 ##  Data Sources:
 
 ***1. Movie Revenue and Ratings Dataset:***
@@ -75,6 +78,33 @@ This dataset provides detailed production information:
   
 - **Trends in Movie Releases:**
   - Explored annual trends in the number of movie releases to see if the frequency of releases has increased over time.
+
+# Dashboards Crafted:
+
+## 1. Financial Analysis Dashboard:
+
+![PB Financial analysis dashboard](https://github.com/sahil-kishor/PowerBI-Unveiling-Insights-in-the-Movie-Industry-Through-Data-Analysis/assets/159517524/412ad945-1de4-433d-84f8-de04e0b2b668)
+
+
+## 2. Ratings Analysis Dashboard:
+
+![PB ratings Dashboard](https://github.com/sahil-kishor/PowerBI-Unveiling-Insights-in-the-Movie-Industry-Through-Data-Analysis/assets/159517524/f67be9cb-6a78-403d-83fb-ff9b9cfa8a99)
+
+
+## 3. Genre Analysis Dashboard:
+
+![PB Genre Analysis Dashboard](https://github.com/sahil-kishor/PowerBI-Unveiling-Insights-in-the-Movie-Industry-Through-Data-Analysis/assets/159517524/1290b3f9-dcdc-47c6-9d9a-7badf268a980)
+
+
+## 4. Features To Compare - Dashboard to campare Features of any two Movies:
+
+![PB Features to Compare](https://github.com/sahil-kishor/PowerBI-Unveiling-Insights-in-the-Movie-Industry-Through-Data-Analysis/assets/159517524/b2c085e3-6e10-453f-8dd1-31bf7d2e04e1)
+
+
+## 5. Genre Profitibility Trends Analysis Dashboard:
+
+![PB Genre Profitibilty Dasboard](https://github.com/sahil-kishor/PowerBI-Unveiling-Insights-in-the-Movie-Industry-Through-Data-Analysis/assets/159517524/bae9f07b-b466-472b-a91d-765ce426178e)
+
 
 ## Key Insights:
 
