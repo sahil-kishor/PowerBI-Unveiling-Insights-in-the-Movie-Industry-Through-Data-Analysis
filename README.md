@@ -65,7 +65,7 @@ This dataset provides detailed production information:
   - Calculated the average worldwide gross revenue by release month to determine if the release month affects financial success.
 
 - **Production Company Analysis:**
-  -Identified the most successful production companies in terms of revenue and ratings.
+  - Identified the most successful production companies in terms of revenue and ratings.
 
 - **Runtime and Rating Relation:**
   - Investigated the relationship between movie runtime and ratings.
