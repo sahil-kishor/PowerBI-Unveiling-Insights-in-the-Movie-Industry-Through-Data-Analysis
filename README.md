@@ -126,6 +126,9 @@ This dataset provides detailed production information:
 
 This project provides a comprehensive analysis of the movie industry using Power BI, revealing significant trends and patterns. Insights suggest a strategic focus on sci-fi and thriller genres, consideration of release timing for financial success, and the impact of production company reputation on movie performance. The interactive dashboard offers stakeholders valuable data-driven insights for strategic decision-making in movie production and distribution.
 
+## Project Links: 
+***Power BI Project File Link (GitHub):*** https://github.com/sahil-kishor/PowerBI-Unveiling-Insights-in-the-Movie-Industry-Through-Data-Analysis/blob/main/Sahil_Kishor_PowerBI_Project_Part2.pbix
+***Power BI Project File Link (G-Drive):*** https://drive.google.com/file/d/1F3JKxoVOmaSH78tpTxSpWPrxTvvGzd6m/view?usp=sharing
 
 ## Author
 
