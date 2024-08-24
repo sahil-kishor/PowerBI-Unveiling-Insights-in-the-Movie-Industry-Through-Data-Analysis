@@ -101,7 +101,7 @@ This dataset provides detailed production information:
 ![PB Features to Compare](https://github.com/sahil-kishor/PowerBI-Unveiling-Insights-in-the-Movie-Industry-Through-Data-Analysis/assets/159517524/b2c085e3-6e10-453f-8dd1-31bf7d2e04e1)
 
 
-## 5. Genre Profitibility Trends Analysis Dashboard:
+## 5. Genre Profitability Trends Analysis Dashboard:
 
 ![PB Genre Profitibilty Dasboard](https://github.com/sahil-kishor/PowerBI-Unveiling-Insights-in-the-Movie-Industry-Through-Data-Analysis/assets/159517524/bae9f07b-b466-472b-a91d-765ce426178e)
 
