@@ -128,6 +128,7 @@ This project provides a comprehensive analysis of the movie industry using Power
 
 ## Project Links: 
 ***Power BI Project File Link (GitHub):*** https://github.com/sahil-kishor/PowerBI-Unveiling-Insights-in-the-Movie-Industry-Through-Data-Analysis/blob/main/Sahil_Kishor_PowerBI_Project_Part2.pbix
+
 ***Power BI Project File Link (G-Drive):*** https://drive.google.com/file/d/1F3JKxoVOmaSH78tpTxSpWPrxTvvGzd6m/view?usp=sharing
 
 ## Author
